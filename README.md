@@ -12,4 +12,6 @@ Once you have Ollama installed, you need to pull the specific model required for
 ollama pull deepseek-r1:1.5b
 pip install -r requirements.txt
 python pdf_rag.py
+````
 
+<img src="Screenshot 2025-01-27 222744.png" alt="demo" width="300">
